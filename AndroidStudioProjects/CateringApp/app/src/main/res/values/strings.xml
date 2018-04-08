@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CateringApp</string>
+    <string name="emptyString" />
+    <string-array name="UserRoleDropDown">
+        <item>User</item>
+        <item>Caterer</item>
+        <item>Caterer Staff</item>
+        <item>Admin</item>
+    </string-array>
+    <string-array name="RoleRegtrnScreen">
+        <item>User</item>
+        <item>Caterer</item>
+        <item>Caterer Staff</item>
+    </string-array>
+</resources>
